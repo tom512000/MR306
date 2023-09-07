@@ -8,7 +8,7 @@
 - Gregory ARGANINI
 
 ## Sommaire :
-- TD1 ❌
+- [TD1](TD1/R3.06_TD1.pdf) ❌
 - TD2 ❌
 - TD3 ❌
 - TD4 ❌
