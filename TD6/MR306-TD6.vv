@@ -1,0 +1,10 @@
+[virt-viewer]
+type=vnc
+title=MR306-TD6
+host=one-dell1
+port=11464
+proxy=http://one-frontend.ad-urca.univ-reims.fr:29876?token=ak0yfcfndgwvrdvi567u
+fullscreen=0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
+secure-attention=ctrl+alt+end
